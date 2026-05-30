@@ -1,6 +1,6 @@
 # @astronlab/toolbox-cors-proxy
 
-A lightweight local CORS proxy for [AstronLab Tools](https://toolbox-dashboard.pages.dev).
+A lightweight local CORS proxy for [AstronLab Tools](https://toolbox.astronlab.com).
 
 Run it locally to keep all network requests on your machine instead of routing through the cloud proxy.
 
@@ -20,7 +20,7 @@ npx @astronlab/toolbox-cors-proxy 9090
 
 ## Configure in AstronLab Tools
 
-1. Open [AstronLab Tools](https://toolbox-dashboard.pages.dev)
+1. Open [AstronLab Tools](https://toolbox.astronlab.com)
 2. Click the **⚙️** icon in the top-right navbar
 3. Select **🖥️ Local**
 4. Enter your proxy URL: `http://127.0.0.1:8888`
