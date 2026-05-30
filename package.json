@@ -1,6 +1,6 @@
 {
   "name": "@astronlab/toolbox-cors-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Local CORS proxy for AstronLab Toolbox — run locally to avoid cloud quota when using AstronLab Tools.",
   "main": "cli.js",
   "type": "module",
