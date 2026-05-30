@@ -1,0 +1,21 @@
+{
+  "name": "@astronlab/toolbox-cors-proxy",
+  "version": "1.0.0",
+  "description": "Local CORS proxy for AstronLab Toolbox — run locally to avoid cloud quota when using AstronLab Tools.",
+  "main": "cli.js",
+  "type": "module",
+  "bin": {
+    "toolbox-cors-proxy": "./cli.js"
+  },
+  "scripts": {
+    "build": "echo 'No compilation needed for pure JS wrapper'"
+  },
+  "keywords": ["cors", "proxy", "tricount", "astronlab", "toolbox"],
+  "author": "AstronLab",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astronlab/toolbox-cors-proxy.git"
+  },
+  "engines": { "node": ">=18" }
+}
